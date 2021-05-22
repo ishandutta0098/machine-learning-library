@@ -7,7 +7,7 @@
 1. [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo) - Freecodecamp YouTUbe
 
 ## Machine Learning
-1. Reference - [Approaching Almost any Machine LEarning Problem](https://github.com/abhi1thakur/approachingalmost/blob/master/AAAMLP.pdf) - Abhishek Thakur Book
+1. Reference - [Approaching Almost any Machine Learning Problem](https://github.com/abhi1thakur/approachingalmost/blob/master/AAAMLP.pdf) - Abhishek Thakur Book
 2. [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science) - IBM - Coursera
 3. [Machine Learning](https://www.coursera.org/learn/machine-learning) - Stanford University - Coursera
 

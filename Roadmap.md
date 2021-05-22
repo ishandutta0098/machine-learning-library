@@ -30,6 +30,8 @@
 ## Research Paper Understanding and Explanations
 1. [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) - Paper Explanations - Youtube
 2. [Aladdin Persson](https://www.youtube.com/c/AladdinPersson/featured) - Paper Implementations (PyTorch) and Deep Learning Projects - YouTube
+3. [PapersWithCode](https://paperswithcode.com/) 
+4. [Google Scholar](https://scholar.google.com/)
 
 ## MLOps
 1. [MLOps - Machine Learning Operations](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5a6OA473MA4KnOXWnUyV_J) - AIEngineering YouTube

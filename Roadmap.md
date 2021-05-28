@@ -4,7 +4,7 @@
 3. [Data Analysis with Python Course - Numpy, Pandas, Data Visualization](https://www.youtube.com/watch?v=GPVsHOlRBBI) - Freecodecamp YouTube
 
 ## Python Advanced
-1. [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo) - Freecodecamp YouTUbe
+1. [Intermediate Python Programming Course](https://www.youtube.com/watch?v=HGOBQPFzWKo) - Freecodecamp YouTube
 
 ## Machine Learning
 1. Reference - [Approaching Almost any Machine Learning Problem](https://github.com/abhi1thakur/approachingalmost/blob/master/AAAMLP.pdf) - Abhishek Thakur Book
@@ -22,13 +22,13 @@
 ## Natural Language Processing
 1. [NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL) - Sentdex YouTube
 2. Reference - [HuggingFace Glossary](https://huggingface.co/transformers/glossary.html) - Huggingface
-3. [Training Sentiment Model Using BERT and Serving it with Flask API](https://www.youtube.com/watch?v=hinZO--TEk4&t=3427s) - Abhishek Thakur Youtube
+3. [Training Sentiment Model Using BERT and Serving it with Flask API](https://www.youtube.com/watch?v=hinZO--TEk4&t=3427s) - Abhishek Thakur YouTube
 
 ## Computer Vision
 1. [OpenCV Course - Full Tutorial with Python](https://www.youtube.com/watch?v=oXlwWbU8l2o)
 
 ## Research Paper Understanding and Explanations
-1. [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) - Paper Explanations - Youtube
+1. [Yannic Kilcher](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew) - Paper Explanations - YouTube
 2. [Aladdin Persson](https://www.youtube.com/c/AladdinPersson/featured) - Paper Implementations (PyTorch) and Deep Learning Projects - YouTube
 3. [PapersWithCode](https://paperswithcode.com/) 
 4. [Google Scholar](https://scholar.google.com/)

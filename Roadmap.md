@@ -1,3 +1,5 @@
+# Courses
+
 ## Python Foundation
 1. [Python for Everybody Specialization](https://www.coursera.org/specializations/python?) - University of Michigan - Coursera
 2. [Kaggle Microcourses](https://www.kaggle.com/learn) - Kaggle
@@ -38,3 +40,10 @@
 
 ## PySpark
 1. [Big Data with PySpark](https://learn.datacamp.com/skill-tracks/big-data-with-pyspark?version=1) - Datacamp
+
+---
+
+# Hackathon Platforms
+1. [Kaggle](https://www.kaggle.com/)
+2. [Analytics Vidhya](https://datahack.analyticsvidhya.com/)
+3. [MachineHack](https://machinehack.com/home)

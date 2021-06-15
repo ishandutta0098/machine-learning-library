@@ -5,3 +5,4 @@
 ## TensorRT:
 - [NVIDIA TensorRT Documentation](https://docs.nvidia.com/deeplearning/tensorrt/quick-start-guide/index.html#conversion): [Code, Detailed Explanation]
 - [NVIDIA TensorRT Quick Start Guide](https://docs.nvidia.com/deeplearning/tensorrt/quick-start-guide/index.html#conversion): [Installation, Usage Details - TF|PyTorch|ONNX]
+- [Working With TensorRT Using The Python API](https://www.programmersought.com/article/58641605351/): [Code, Good Explanations, PyTorch, TF, ONNX, Inference]

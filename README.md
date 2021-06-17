@@ -1,2 +1,2 @@
 # dataScience_codingLibrary
-My Coding Library for Data Science Problems.
+A Collection of Resources for Data Science.
